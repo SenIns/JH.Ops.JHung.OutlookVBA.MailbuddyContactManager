@@ -1,0 +1,27 @@
+Public Sub MailBuddy()
+MsgBox 1
+End Sub
+
+Public Sub WriteToIndex()
+
+End Sub
+
+Public Sub WriteToTag()
+
+End Sub
+
+Public Sub WriteToUser()
+
+End Sub
+
+Public Function ReadFromIndex()
+
+End Function
+
+Public Function ReadFromTag()
+
+End Function
+
+Public Function ReadFromUser()
+
+End Function
